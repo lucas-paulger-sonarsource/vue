@@ -1,7 +1,7 @@
 {
   "name": "vue",
   "version": "2.6.14",
-  "description": "Reactive, component-oriented view layer for modern web interfaces. Lucas",
+  "description": "Reactive, component-oriented view layer for modern web interfaces. Lucas new edit",
   "main": "dist/vue.runtime.common.js",
   "module": "dist/vue.runtime.esm.js",
   "unpkg": "dist/vue.js",
